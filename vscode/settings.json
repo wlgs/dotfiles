@@ -1,0 +1,96 @@
+{
+
+    "name": "C++ Launch (Windows)",
+    "type": "cppvsdbg",
+    "request": "launch",
+    "program": "C:\\app1\\Debug\\app1.exe",
+    "symbolSearchPath": "C:\\Symbols;C:\\SymbolDir2",
+    "externalConsole": true,
+    "logging": {
+        "moduleLoad": false,
+        "trace": true
+    },
+    "editor.mouseWheelZoom": true,
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "workbench.editorAssociations": {
+      "*.ipynb": "jupyter-notebook"
+    },
+    "editor.tokenColorCustomizations": {
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "notebook.cellToolbarLocation": {
+      "default": "right",
+      "jupyter-notebook": "left"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.preferredDarkColorTheme": "One Dark Pro",
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.profiles.windows": {
+      "PowerShell": {
+        "source": "PowerShell",
+        "icon": "terminal-powershell",
+        "args": ["-ExecutionPolicy", "Bypass"]
+      }
+    },
+    
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": false,
+    // "editor.fontSize": 13,
+    // "editor.lineHeight": 22,
+    // "editor.letterSpacing": 1.2,
+    "editor.fontSize": 20,
+    "editor.lineHeight": 34,
+    "editor.semanticHighlighting.enabled": false,
+    "debug.console.fontFamily": "JetBrains Mono",
+    "workbench.list.smoothScrolling": true,
+    "editor.smoothScrolling": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.colorCustomizations": {
+      "tab.activeBorder": "#d19a66",
+    },
+    "editor.hideCursorInOverviewRuler": true,
+    "python.defaultInterpreterPath": "C:\\Users\\WLGS\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.linting.flake8Enabled": false,
+    "python.linting.enabled": false,
+    "python.formatting.provider": "autopep8",
+    "python.linting.pylintEnabled": false,
+    "python.linting.mypyEnabled": true,
+    "editor.linkedEditing": true,
+    "git.confirmSync": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.currentLine.enabled": false,
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.cursorBlinking": "phase",
+    "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+    "workbench.list.openMode": "doubleClick",
+    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "sqltools.connections": [],
+    "sqltools.useNodeRuntime": true,
+    "[cpp]": {
+      "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "glassit.alpha": 247,
+    "glassit.step": 2,
+    "explorer.confirmDragAndDrop": false,
+    "css.lint.unknownAtRules": "ignore",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[c]": {
+      "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "kite.showWelcomeNotificationOnStartup": false,
+  }
