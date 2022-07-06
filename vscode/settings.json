@@ -19,7 +19,7 @@
   "editor.tokenColorCustomizations": {
   },
   "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "vscode.typescript-language-features"
   },
   "notebook.cellToolbarLocation": {
     "default": "right",
@@ -40,16 +40,17 @@
   "editor.fontLigatures": true,
 
   // I USE THIS ONE !
-  "editor.fontFamily": "Fira Code",
+  // "editor.fontFamily": "Fira Code",
+  // "editor.fontSize": 13,
+  // "editor.lineHeight": 1.7,
+  // "editor.fontWeight": "300",
+  
+  
+  // OR THIS ONE !
+  "editor.fontFamily": "JetBrains Mono",
   "editor.fontSize": 13,
   "editor.lineHeight": 1.7,
   "editor.fontWeight": "300",
-
-
-  // OR THIS ONE !
-  // "editor.fontFamily": "JetBrains Mono",
-  // "editor.fontSize": 13,
-  // "editor.lineHeight": 1.8,
 
   
   // "editor.fontFamily": "Cascadia Mono",
@@ -88,7 +89,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "vscode.typescript-language-features"
   },
   "editor.cursorBlinking": "phase",
   "workbench.iconTheme": "vscode-icons",
@@ -117,4 +118,8 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.wordWrap": "on",
+  "workbench.startupEditor": "none",
 }
