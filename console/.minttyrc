@@ -1,0 +1,10 @@
+ThemeFile=dracula
+Font=JetBrains Mono NL
+FontWeight=700
+FontIsBold=yes
+Transparency=high
+CursorType=block
+ClicksPlaceCursor=yes
+BellType=0
+Columns=128
+Rows=32
