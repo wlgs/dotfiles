@@ -27,7 +27,7 @@
   },
   "security.workspace.trust.untrustedFiles": "open",
   "workbench.preferredDarkColorTheme": "Omni",
-  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontFamily": "JetBrainsMono NF",
   "terminal.integrated.profiles.windows": {
     "PowerShell": {
       "source": "PowerShell",
@@ -36,32 +36,41 @@
     }
   },
   
-  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
   "editor.fontLigatures": true,
 
   // I USE THIS ONE !
   // "editor.fontFamily": "Fira Code",
   // "editor.fontSize": 13,
+  // "editor.lineHeight": 1.8,
+  // "editor.fontWeight": "400",
+  
+  // "editor.fontFamily": "Source Code Pro for Powerline",
+  // "editor.fontSize": 13,
+  // "editor.lineHeight": 1.8,
+  // "editor.fontWeight": "300",
+
+  // OR THIS ONE !
+  // "editor.fontFamily": "JetBrains Mono",
+  // "editor.fontSize": 17,
   // "editor.lineHeight": 1.7,
   // "editor.fontWeight": "300",
-  
-  
-  // OR THIS ONE !
-  "editor.fontFamily": "JetBrains Mono",
-  "editor.fontSize": 13,
-  "editor.lineHeight": 1.7,
-  "editor.fontWeight": "300",
 
+  "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.6,
   
+  "editor.scrollbar.verticalScrollbarSize": 10,
+
   // "editor.fontFamily": "Cascadia Mono",
-  // "editor.fontSize": 10,
+  // "editor.lineHeight": 1.8,
+  // "editor.fontSize": 13,
+  // "editor.fontWeight": "300",
 
   // "editor.fontFamily": "JetBrainsMono NF",
   // "editor.fontSize": 13,
   // "editor.lineHeight": 1.7,
-  // "editor.fontWeight": "200",
-
-
+  // "editor.fontWeight": "300",
 
   "editor.semanticHighlighting.enabled": false,
   "debug.console.fontFamily": "JetBrainsMono NF",
@@ -92,9 +101,9 @@
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
   "editor.cursorBlinking": "phase",
-  "workbench.iconTheme": "vscode-icons",
+  "workbench.iconTheme": "eq-material-theme-icons",
   "workbench.list.openMode": "doubleClick",
-  "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+  "workbench.colorTheme": "Jetbrains Fleet",
   "diffEditor.ignoreTrimWhitespace": false,
   "vsicons.dontShowNewVersionMessage": true,
   "sqltools.connections": [],
@@ -116,10 +125,19 @@
   },
   "explorer.confirmDelete": true,
   "[typescriptreact]": {
-    "editor.defaultFormatter": "vscode.typescript-language-features"
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "bracket-pair-colorizer-2.depreciation-notice": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "editor.wordWrap": "on",
   "workbench.startupEditor": "none",
+  "workbench.editor.untitled.hint": "hidden",
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[handlebars]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.cursorBlinking": true,
+  "editor.minimap.enabled": false,
 }
