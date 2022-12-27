@@ -1,0 +1,23 @@
+show dbs
+mongoimport --db yelp --collection business --type json --file ./yelp/yelp_academic_dataset_business.json
+mongoimport
+use yelp
+db
+show dbs
+use yelp
+show dbs
+db
+db.createCollection("business")
+show dbs
+show dbs
+ll
+show dbs
+use yelp
+db.createCollection("business")
+show dbs
+show dbs
+use MW
+db.createCollection("student")
+show dbs
+clean
+clear
