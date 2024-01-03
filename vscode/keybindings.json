@@ -91,5 +91,5 @@
     {
         "key": "shift shift",
         "command": "workbench.action.quickOpen"
-    },
+    }
 ]
