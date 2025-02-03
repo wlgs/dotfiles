@@ -1,0 +1,22 @@
+/* Hide context menu options */
+
+#placesContext_open,
+#context-navigation,
+#context-savepage,
+#context-sep-navigation,
+#context-sendimage,
+#context-setDesktopBackground,
+#context-sep-setbackground {
+  display: none !important;
+}
+
+/* Lower padding -> more elements in bookmarks folder */
+
+menupopup:not(.in-menulist) > menuitem, 
+menupopup:not(.in-menulist) > menu {
+  padding-block: 3px !important;
+  min-height: unset !important; /* v92.0 - for padding below 4px */
+}
+:root {
+  --arrowpanel-menuitem-padding: 4px 8px !important;
+}
