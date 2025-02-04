@@ -1,1 +1,0 @@
-# WLGS' dotfiles
