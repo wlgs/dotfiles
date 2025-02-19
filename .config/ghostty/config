@@ -1,7 +1,7 @@
-theme = niji
+theme = Dark Pastel
 mouse-hide-while-typing = true
-macos-titlebar-style = transparent
-font-size = 17
+macos-titlebar-style = tabs
+font-size = 18
 window-height = 34
 window-width = 112
 window-padding-y = 0
@@ -16,35 +16,6 @@ macos-icon-screen-color = 141515
 macos-icon-frame = beige
 confirm-close-surface = false
 
-# window-title-font-family = JetBrains Mono
-
-#keybind = super+physical:one=unbind
-#keybind = super+physical:two=unbind
-#keybind = super+physical:three=unbind
-#keybind = super+physical:four=unbind
-#keybind = super+physical:five=unbind
-#keybind = super+physical:six=unbind
-#keybind = super+physical:seven=unbind
-#keybind = super+physical:eight=unbind
-#keybind = super+physical:nine=unbind
-#keybind = ctrl+space>t=new_tab
-#keybind = ctrl+space>physical:one=goto_tab:1
-#keybind = ctrl+space>physical:two=goto_tab:2
-#keybind = ctrl+space>physical:three=goto_tab:3
-#keybind = ctrl+space>physical:four=goto_tab:4
-#keybind = ctrl+space>physical:five=goto_tab:5
-#keybind = ctrl+space>physical:six=goto_tab:6
-#keybind = ctrl+space>physical:seven=goto_tab:7
-#keybind = ctrl+space>physical:eight=goto_tab:8
-#keybind = ctrl+space>physical:nine=goto_tab:9
-#keybind = ctrl+space>up=goto_split:top
-#keybind = ctrl+space>down=goto_split:bottom
-#keybind = ctrl+space>left=goto_split:left
-#keybind = ctrl+space>right=goto_split:right
-#keybind = ctrl+space>n=new_window
-#keybind = ctrl+space>shift+-=new_split:down
-#keybind = ctrl+space>-=new_split:right
-#keybind = ctrl+space>w=close_surface
 keybind = cmd+w=unbind
 keybind = cmd+t=unbind
 keybind = cmd+n=unbind
