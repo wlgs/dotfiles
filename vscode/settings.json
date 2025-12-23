@@ -102,14 +102,13 @@
     },
     "workbench.colorTheme": "Sonokai Andromeda",
     "workbench.editor.empty.hint": "hidden",
+    "workbench.editor.enablePreview": false,
     "workbench.editorAssociations": {
         "*.ipynb": "jupyter-notebook"
     },
     "workbench.iconTheme": "material-icon-theme",
     "workbench.layoutControl.enabled": false,
-    "workbench.list.openMode": "doubleClick",
     "workbench.list.smoothScrolling": true,
-    "workbench.preferredDarkColorTheme": "Omni",
     "workbench.productIconTheme": "icons-carbon",
     "workbench.reduceMotion": "off",
     "workbench.sideBar.location": "right",
