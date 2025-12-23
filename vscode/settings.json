@@ -1,0 +1,120 @@
+{
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[handlebars]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.formatOnType": true
+    },
+    "[sql]": {
+        "editor.defaultFormatter": "inferrinizzard.prettier-sql-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "css.lint.unknownAtRules": "ignore",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.accessibilitySupport": "off",
+    "editor.codeActionsOnSave": {},
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "block",
+    "editor.cursorSurroundingLines": 10,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 17,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.lineHeight": 1.7,
+    "editor.linkedEditing": true,
+    "editor.minimap.enabled": false,
+    "editor.mouseWheelZoom": true,
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "editor.quickSuggestionsDelay": 0,
+    "editor.rename.enablePreview": false,
+    "editor.scrollbar.horizontalScrollbarSize": 10,
+    "editor.scrollbar.verticalScrollbarSize": 7,
+    "editor.semanticHighlighting.enabled": false,
+    "editor.snippetSuggestions": "bottom",
+    "editor.tabSize": 4,
+    "editor.tokenColorCustomizations": {},
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.wordWrap": "on",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmPasteNative": false,
+    "extensions.ignoreRecommendations": true,
+    "git.autofetch": true,
+    "git.blame.editorDecoration.enabled": false,
+    "git.blame.statusBarItem.enabled": false,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "gitblame.statusBarMessageClickAction": "Open tool URL",
+    "gitblame.statusBarMessageFormat": "${author.name} (${time.ago})",
+    "github.copilot.enable": {
+        "*": true,
+        "markdown": false,
+        "mdx": false,
+        "plaintext": false,
+        "scminput": false,
+        "shellscript": false,
+        "yaml": false
+    },
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "makefile.configureOnOpen": false,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "prettier.printWidth": 120,
+    "prettier.tabWidth": 4,
+    "python.defaultInterpreterPath": "/Users/wlgs/miniconda3/envs/coreml/bin/python",
+    "redhat.telemetry.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.fontSize": 17,
+    "terminal.integrated.inheritEnv": false,
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "args": [
+                "-ExecutionPolicy",
+                "Bypass"
+            ],
+            "icon": "terminal-powershell",
+            "source": "PowerShell"
+        }
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "vsicons.dontShowNewVersionMessage": true,
+    "window.commandCenter": false,
+    "workbench.activityBar.location": "bottom",
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBorder": "#ffffff33"
+    },
+    "workbench.colorTheme": "Sonokai Andromeda",
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.layoutControl.enabled": false,
+    "workbench.list.openMode": "doubleClick",
+    "workbench.list.smoothScrolling": true,
+    "workbench.preferredDarkColorTheme": "Omni",
+    "workbench.productIconTheme": "icons-carbon",
+    "workbench.reduceMotion": "off",
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "none",
+    "workbench.tree.indent": 15
+}

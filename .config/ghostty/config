@@ -1,22 +1,16 @@
 theme = Dark Pastel
 mouse-hide-while-typing = true
 macos-titlebar-style = tabs
-font-size = 18
-window-height = 34
-window-width = 112
+font-size = 16
+window-height = 38
+window-width = 132
 window-padding-y = 0
 window-padding-x = 0
+font-thicken = true
+font-thicken-strength = 128
 
 macos-titlebar-proxy-icon = hidden
 cursor-style = block
 cursor-style-blink = false
-macos-icon = custom-style
-macos-icon-ghost-color = FFB86C
-macos-icon-screen-color = 141515
-macos-icon-frame = beige
 confirm-close-surface = false
-
-keybind = cmd+w=unbind
-keybind = cmd+t=unbind
-keybind = cmd+n=unbind
 
