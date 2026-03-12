@@ -1,0 +1,8 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR __fish_initialized:4300
+SETUVAR fish_cursor_default:block
+SETUVAR fish_cursor_insert:block
+SETUVAR fish_cursor_replace_one:block
+SETUVAR fish_cursor_visual:block
+SETUVAR fish_user_paths:/opt/homebrew/bin\x1e/Users/wlgs/\x2ebun/bin\x1e/Users/wlgs/Library/pnpm\x1e/Users/wlgs/\x2elocal/bin
